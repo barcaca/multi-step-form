@@ -42,7 +42,7 @@ O projeto segue a arquitetura de componentes de React. Os componentes são organ
 
 ## 🔗 Links
 
-- Solution URL: [Multi Step Form/Frontier Mentor](https://www.frontendmentor.io/solutions/todo-appnextjs-tailwind-css-rnwcrxVt2H)
+- Solution URL: [Multi Step Form/Frontier Mentor](https://www.frontendmentor.io/solutions/multi-step-formnextjs-tailwindcss-shadcn-ui-29-l2NaKj4)
 - Live Site URL: [Vercel App](https://multi-step-form-snowy.vercel.app/)
 
 ### 🏆 **Conclusão**
