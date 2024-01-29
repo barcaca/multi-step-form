@@ -1,3 +1,4 @@
+'use client'
 import { AdvancedIcon, ArcadeIcon, ProIcon } from '@/components/icon/icon'
 import {
   FormControl,

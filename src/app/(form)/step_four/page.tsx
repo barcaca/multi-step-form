@@ -1,3 +1,4 @@
+'use client'
 import { Button } from '@/components/ui/button'
 import { useMultiContext } from '@/contexts/multistep-form-context'
 import { useFormContext } from 'react-hook-form'
