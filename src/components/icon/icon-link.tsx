@@ -1,4 +1,4 @@
-import cn from '@/utils/cn'
+import { cn } from '@/lib/utils'
 import Link from 'next/link'
 
 interface IconLinkProps extends React.ComponentPropsWithoutRef<typeof Link> {
