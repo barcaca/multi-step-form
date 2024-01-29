@@ -46,7 +46,7 @@ export function MultiStepContenxtProvider({
   children,
 }: MultiStepContextProviderProps) {
   const [isYear, setIsYear] = useState(false)
-  const [step, setStep] = useState(3)
+  const [step, setStep] = useState(1)
   const [user, setUser] = useState<UserData[]>([])
 
   function createUserData(data: FormData) {
