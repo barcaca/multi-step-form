@@ -9,7 +9,7 @@ import {
 import { Input } from '@/components/ui/input'
 import { useFormContext } from 'react-hook-form'
 
-export default function StepOne() {
+export function StepOne() {
   const { control } = useFormContext()
   return (
     <>
